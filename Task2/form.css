@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: teal; */
+    /* background-image: url(images/bg1.jpeg); */
+   
+}
+body{
+    background-color: teal;
+    /* background-image: url(images/bg1.jpeg); */
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+     margin-top: 100px; 
+    margin-left: 470px; 
+    
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    height: auto;
+    width: 310px;
+    
+    padding: 22px;
+}
+/* form{
+    background-color: white;
+} */
+.text1{
+    margin-top: 10px;
+
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    padding: 15px;
+    width: 270px;
+    border: none;
+    background: none;
+    border-bottom: 1px solid black;
+    /* border-radius: 20px; */
+    outline: none;
+}
+.submit{
+    background-color: black;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
